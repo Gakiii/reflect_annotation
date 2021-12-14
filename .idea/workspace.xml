@@ -4,14 +4,33 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5ee6d059-e25a-44f9-8bed-086975f656c9" name="Changes" comment="" />
+    <list default="true" id="5ee6d059-e25a-44f9-8bed-086975f656c9" name="Changes" comment="init">
+      <change afterPath="$PROJECT_DIR$/src/Apple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestAnnotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestReflect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reflect_annotation.iml" beforeDir="false" afterPath="$PROJECT_DIR$/reflect_annotation.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reflcet_test.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="4" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -33,13 +52,73 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.41298214" />
-    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="ReaderModeSettings">
+    <option name="showLigatures" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.TestReflect">
+    <configuration name="Apple" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Apple" />
+      <module name="reflect_annotation" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringClassTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringClassTest" />
+      <module name="reflect_annotation" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestReflect" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestReflect" />
+      <module name="reflect_annotation" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test.maketest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="reflect_annotation" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="test" />
+      <option name="METHOD_NAME" value="maketest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testad.maketest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="reflect_annotation" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="testad" />
+      <option name="METHOD_NAME" value="maketest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestReflect" />
+        <item itemvalue="Application.StringClassTest" />
+        <item itemvalue="JUnit.testad.maketest" />
+        <item itemvalue="JUnit.test.maketest" />
+        <item itemvalue="Application.Apple" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -51,6 +130,16 @@
       <updated>1639055648741</updated>
       <workItem from="1639055649946" duration="637000" />
       <workItem from="1639058349863" duration="20000" />
+      <workItem from="1639122538603" duration="1312000" />
+      <workItem from="1639124152417" duration="840000" />
+      <workItem from="1639132945745" duration="725000" />
+      <workItem from="1639363273151" duration="37000" />
+      <workItem from="1639363327021" duration="947000" />
+      <workItem from="1639478408602" duration="1050000" />
+      <workItem from="1639479481583" duration="183000" />
+      <workItem from="1639479684874" duration="165000" />
+      <workItem from="1639479866983" duration="260000" />
+      <workItem from="1639480143154" duration="1567000" />
     </task>
     <servers />
   </component>
@@ -60,6 +149,11 @@
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
+        <entry key="04111afa-8d1a-458b-8c1d-092e27c485fd">
+          <value>
+            <State />
+          </value>
+        </entry>
         <entry key="MAIN">
           <value>
             <State />
@@ -67,5 +161,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
