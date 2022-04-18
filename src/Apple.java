@@ -1,6 +1,5 @@
 import java.lang.reflect.Constructor;
 import java.lang.reflect.Method;
-import org.junit.Test;
 
 
 public class Apple {
@@ -8,12 +7,14 @@ public class Apple {
     private int price;
 
     public Apple(){
-        
+        //TODO
     }
 
     public static void test() {
         System.out.println("this");
     }
+
+
 
 
 
